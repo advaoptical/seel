@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+
+*.egg-info
+.eggs/
+dist/
+
+.ipynb_checkpoints/
+
+.vscode/
