@@ -14,7 +14,7 @@ Also called Command Line Interface (CLI)
     >
 </a>
 
-SEEL is a **Free** OpenSource project of [
+**SEEL** is a **Free OpenSource** project of [
   ADVA Optical Networking][advaoptical]
 
 [advaoptical]: https://advaoptical.com
@@ -23,12 +23,12 @@ SEEL is a **Free** OpenSource project of [
 
 [license]: http://www.apache.org/licenses/LICENSE-2.0
 
-> SEEL is [MODELED][modeled] >>> **M**ODELED **O**bjects **D**amn **E**sily
-> **L**oad and **E**mit **D**ata
+> **SEEL** is [MODELED][modeled] >>>
+> **M**ODELED **O**bjects **D**amn**E**sily **L**oad and **E**mit **D**ata
 
 [modeled]: https://github.com/modeled
 
-The SEEL API attempts to make the following tasks as simple as possible:
+The **SEEL** API attempts to make the following tasks as simple as possible:
 
 * Spawn a local CLI or connect to a remote CLI through SSH
 * Send commands to the CLI and verify their returned output with Regular
