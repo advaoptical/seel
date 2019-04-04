@@ -17,7 +17,7 @@ Also called Command Line Interface (CLI)
 **SEEL** is a **Free OpenSource** project of [
   ADVA Optical Networking][advaoptical]
 
-[advaoptical]: https://advaoptical.com
+[advaoptical]: https://www.advaoptical.com
 
 > **Licensed** under the [Apache License, Version 2.0][license]
 
