@@ -10,8 +10,8 @@ setup(
     author="ADVA Optical Networking :: Stefan Zimmermann",
     author_email="szimmermann@advaoptical.com",
 
-    setup_requires=['setuptools_scm'],
-    version_from_scm={
+    setup_requires=["setuptools_scm >= 3.1"],
+    use_scm_version={
         'local_scheme': lambda _: '',
         'write_to': os.path.join('seel', '__version__.py'),
     },
