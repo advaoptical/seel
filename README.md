@@ -24,7 +24,7 @@ Also called Command Line Interface (CLI)
 [license]: http://www.apache.org/licenses/LICENSE-2.0
 
 > **SEEL** is [MODELED][modeled] >>>
-> **M**ODELED **O**bjects **D**amn **E**sily **L**oad and **E**mit **D**ata
+> **M**ODELED **O**bjects **D**amn **E**asily **L**oad and **E**mit **D**ata
 
 [modeled]: https://github.com/modeled
 
